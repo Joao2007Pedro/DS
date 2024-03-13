@@ -13,7 +13,7 @@ public class Funcionario {
 		}
 		
 		double AumentaSalario() {
-			System.out.println("Quantos porcento a mais você gostario de receber?");
+			System.out.println("Quantos porcento a mais vocÃª gostario de receber?");
 			percentual = in.nextDouble();
 			double SalarioAumentado = SalarioBruto + (percentual * SalarioBruto);
 			return SalarioAumentado;
