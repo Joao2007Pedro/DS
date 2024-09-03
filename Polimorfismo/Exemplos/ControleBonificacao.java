@@ -2,7 +2,7 @@
 public class ControleBonificacao {
 	//atributo soma, server para soma cada uma das bonificações 
 	private double soma;
-	
+	 
 	
 	//Método que recebe como parametro um objeto do tipo funcionario
 	public void registra(Funcionario f) {
