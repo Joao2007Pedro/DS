@@ -60,8 +60,11 @@ Este repositório serve como:
 ## 🏫 Contexto Acadêmico
 
 Disciplina: **POO — Programação Orientada a Objetos**
+
 Curso: **Desenvolvimento de Sistemas**
+
 Instituição: **ETEC**
+
 Ano: **2º ano do curso**
 
 ---
