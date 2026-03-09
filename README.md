@@ -6,6 +6,13 @@ Todos os exemplos e exercícios foram desenvolvidos **100% em Java**, com foco n
 
 ---
 
+
+## ☕ Linguagem Utilizada
+
+* **Java**
+
+---
+
 ## 📚 Sobre o Repositório
 
 Durante as aulas, os exercícios e exemplos foram sendo organizados em pastas conforme os conteúdos eram apresentados.
